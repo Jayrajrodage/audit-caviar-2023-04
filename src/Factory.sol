@@ -192,4 +192,4 @@ contract Factory is ERC721, Owned {
             .predictDeterministicAddress(salt, address(this));
     }
 }
-//hello
+//ok
